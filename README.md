@@ -1,2 +1,3 @@
 # MS365DEV
-Microsoft 365 Developer
+Develop for the Microsoft 365 platform
+## study again
